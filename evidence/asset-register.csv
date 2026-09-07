@@ -1,0 +1,9 @@
+Asset ID,Type,Asset,Description,Owner,Confidentiality,Integrity,Availability
+A-INF-01,Information,Customer cardholder data,"PAN, expiry dates and CVV",ISC / ITOps / SED / PayOps,High,High,High
+A-INF-02,Information,Customer personal information,"Customer names, email addresses and billing addresses",ISC / ITOps / SED / PayOps,High,Medium,High
+A-INF-03,Information,Token mapping vault,Database mapping tokens to sensitive data,ITOps,High,High,High
+A-INF-04,Information,Source code,Developer code repositories,ITOps / SED,High,High,High
+A-INF-05,Information,Cryptographic keys,Keys used for encryption/decryption of sensitive data,ITOps,High,High,High
+A-INF-06,Information,Merchant settlement and reconciliation data,Data supporting settlement and reconciliation,ITOps / PayOps / Finance & Treasury,Medium,High,Medium
+A-INF-07,Information,Transaction audit logs,Customer and merchant transaction logs,ITOps / PayOps,Medium,High,Medium
+A-INF-08,Information,Backup data,Encrypted backups of systems and data,ITOps,High,High,Medium

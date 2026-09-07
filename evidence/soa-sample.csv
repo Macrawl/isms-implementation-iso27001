@@ -1,0 +1,10 @@
+Control ID,Control Name,Applicable,Justification,Implementation Status,Owner,Evidence
+A.5.1,Policies for information security,Yes,Required to establish management direction,Planned,ISC,Approved policy
+A.5.9,Inventory of information and other associated assets,Yes,Supports asset-based risk assessment,Implemented,ITOps / ISC,Asset register
+A.5.12,Classification of information,Yes,Needed to protect information according to sensitivity,Planned,ISC,Data classification policy
+A.5.15,Access control,Yes,Supports least-privilege access,Planned,ITOps / ISC,Access review
+A.6.3,"Information security awareness, education and training",Yes,Addresses awareness and phishing risk,Planned,HR / ISC,Training records
+A.7.7,Clear desk and clear screen,Yes,Protects information in the workplace,Planned,HR / ISC,Clean-desk audit
+A.8.13,Information backup,Yes,Supports resilience and recovery,Planned,ITOps,Backup/restore evidence
+A.8.25,Secure development life cycle,Yes,Addresses secure development practices,Planned,SED / ISC,SDLC evidence
+A.8.29,Security testing in development and acceptance,Yes,Supports testing before deployment,Planned,SED / ISC,Security test records

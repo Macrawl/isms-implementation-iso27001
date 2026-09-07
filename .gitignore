@@ -1,0 +1,16 @@
+# Secrets
+.env
+*.pem
+*.key
+*.p12
+secrets/
+credentials/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Generated files
+*.log
