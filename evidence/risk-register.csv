@@ -1,6 +1,6 @@
-Risk ID,Asset ID,Asset,Threat,Vulnerability,Likelihood,Impact,Risk Level,Treatment,Annex A Mapping,Owner,Target,Source / rationale
-R-01,A-INF-01,Cardholder data,Data stolen through payment APIs,API/payment security weakness,High,High,High,Modify,A.8.20 / A.8.24,ISC / ITOps / SED,Q1,Highest-priority risk in source case study
-R-05,A-INF-08,Backup data,Ransomware causes service outage,Recovery weaknesses,High,High,High,Modify,A.8.13 / A.8.14 / A.5.30,ISC / ITOps,Q1–Q3,Treatment includes immutable off-site backups and recovery exercises
-R-06,A-INF-02,Customer personal information,Phishing and credential theft,Inconsistent awareness/training,Medium,High,Medium,Modify,A.6.3 / A.8.12,HR / ISC,Q1–Q2,Treatment includes phishing simulations and role-specific training
-R-08,A-INF-04,Cloud workloads,Cloud misconfiguration exposes information,Configuration weakness,Medium,High,Medium,Modify,A.8.9 / A.8.20,ITOps / SED,Q1–Q2,"Treatment includes CSPM, IaC scanning and storage alerts"
-R-13,A-INF-02,Personal information,Unauthorised physical exposure,Clean-desk / screen weakness,Medium,Medium,Medium,Modify,A.7.7 / A.5.12,HR / ISC,Q1,Treatment includes clean-desk audits and privacy screens
+Risk ID,Asset ID,Asset,Threat,Vulnerability,Likelihood,Impact,Risk Level,Treatment,Annex A Mapping,Owner,Target,Source / Rationale
+R-01,A-INF-01,Cardholder data,Data stolen through payment APIs,API/payment security weakness,High,High,High,Modify,A.8.20 / A.8.24,ISC / ITOps / SED,Q1,Highest-priority risk identified in the source case study
+R-05,A-INF-08,Backup data,Ransomware causes service outage,Recovery weaknesses,High,High,High,Modify,A.8.13 / A.8.14 / A.5.30,ISC / ITOps,Q1-Q3,Immutable off-site backups and recovery exercises identified as treatment actions
+R-06,A-INF-02,Customer personal information,Phishing and credential theft,Inconsistent awareness and training,Medium,High,Medium,Modify,A.6.3 / A.8.12,HR / ISC,Q1-Q2,Phishing simulations and role-specific security training identified as treatment actions
+R-08,A-INF-04,Cloud workloads,Cloud misconfiguration exposes information,Configuration weakness,Medium,High,Medium,Modify,A.8.9 / A.8.20,ITOps / SED,Q1-Q2,CSPM IaC scanning and storage alerts identified as treatment actions
+R-13,A-INF-02,Personal information,Unauthorised physical exposure,Clean-desk and screen weakness,Medium,Medium,Medium,Modify,A.7.7 / A.5.12,HR / ISC,Q1,Clean-desk audits and privacy screens identified as treatment actions
