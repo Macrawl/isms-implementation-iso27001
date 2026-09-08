@@ -1,6 +1,6 @@
 Risk ID,Decision,Treatment,Owner,Target,Annex A Mapping,Evidence,Status
-R-01,Modify,Strengthen payment/API security controls and monitoring,ISC / ITOps / SED,Q1,A.8.20 / A.8.24,"Implementation evidence, review results",Open
-R-05,Modify,Immutable off-site backups; quarterly tabletop exercises; annual DR test; EDR,ISC / ITOps,Q1–Q3,A.8.13 / A.8.14 / A.5.30,Backup restore and exercise records,Planned
-R-06,Modify,Monthly phishing simulations; quarterly role-specific training; improved email filtering,HR / ISC,Q1–Q2,A.6.3 / A.8.12,Training and simulation records,Planned
-R-08,Modify,"CSPM, infrastructure-as-code scanning and storage alerts",ITOps / SED,Q1–Q2,A.8.9 / A.8.20,Scan reports and alert evidence,Planned
-R-13,Modify,"Monthly clean-desk audits, privacy screens and role-based access to PII",HR / ISC,Q1,A.7.7 / A.5.12,Audit records and access review,Planned
+R-01,Modify,Strengthen payment/API security controls and monitoring,ISC / ITOps / SED,Q1,A.8.20 / A.8.24,Implementation evidence and control review results,Open
+R-05,Modify,Implement immutable off-site backups; conduct quarterly tabletop exercises; perform annual disaster recovery testing; deploy EDR,ISC / ITOps,Q1-Q3,A.8.13 / A.8.14 / A.5.30,Backup restoration records; exercise records; DR test records,Planned
+R-06,Modify,Conduct monthly phishing simulations; deliver quarterly role-specific security training; improve email filtering,HR / ISC,Q1-Q2,A.6.3 / A.8.12,Training records; phishing simulation results; email filtering evidence,Planned
+R-08,Modify,Implement CSPM; infrastructure-as-code security scanning; cloud storage alerts,ITOps / SED,Q1-Q2,A.8.9 / A.8.20,CSPM reports; IaC scan reports; storage alert evidence,Planned
+R-13,Modify,Conduct monthly clean-desk audits; deploy privacy screens; apply role-based access controls for personal information,HR / ISC,Q1,A.7.7 / A.5.12,Clean-desk audit records; privacy-screen deployment records; access review evidence,Planned
